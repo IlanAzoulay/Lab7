@@ -21,4 +21,5 @@ public class SmartTV extends Product implements Networked{
 	public void setChannel(int channel) {
 		this.channel = channel;
 	}
+	//kjh
 }
