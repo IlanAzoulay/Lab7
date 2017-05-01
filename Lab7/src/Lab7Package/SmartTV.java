@@ -11,7 +11,7 @@ public class SmartTV extends Product implements Networked{
 	{
 		return 100;
 	}
-	
+	//as
 	public String getName()
 	{
 		return this.getClass().getName();
