@@ -1,7 +1,7 @@
 package Lab7Package;
 
 public class ProductTest {
-//dcfvc
+//dcfv
 	public static void main(String[] args) {
 		
 
