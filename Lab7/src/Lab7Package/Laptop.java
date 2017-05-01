@@ -51,6 +51,7 @@ public class Laptop extends Product implements Networked, DataStorage{
 	
 	public void format(){
 		usedCapacity=0;
+		System.out.println("Used Capacity = 0");
 	}
 	
 
